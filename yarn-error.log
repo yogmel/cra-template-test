@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/mellinayonashiro/.nvm/versions/node/v14.19.0/bin/node /usr/local/bin/yarn init -y
+
+PATH: 
+  /Users/mellinayonashiro/.nvm/versions/node/v14.19.0/bin:/Users/mellinayonashiro/Documents/google-cloud-sdk/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.19.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/mellinayonashiro/teste/cra-template-jw-test/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
